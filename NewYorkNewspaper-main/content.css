@@ -1,0 +1,32 @@
+.page {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: aqua;
+  width: 100%;
+  height: 100%;
+}
+
+#article_title {
+ font-size: 60px;
+ text-shadow: 2px 2px gray;
+ ;
+}
+
+#intro {
+font-size: 35px;
+color:fuchsia
+}
+
+.question{
+font-size: 30px;
+color:orange
+}
+
+.answer{
+font-size:30px;
+color:blueviolet
+}
+
+#block_quote {
+font-size: 45px;
+}
